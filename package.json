@@ -2,7 +2,7 @@
   "name": "@blockstack/docs",
   "version": "1.0.0",
   "dependencies": {
-    "@blockstack/ui": "2.12.2-beta.0",
+    "@blockstack/ui": "2.13.0",
     "@docsearch/css": "^1.0.0-alpha.27",
     "@docsearch/react": "^1.0.0-alpha.27",
     "@hashicorp/remark-plugins": "^3.0.0",
