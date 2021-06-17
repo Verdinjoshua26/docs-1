@@ -9,7 +9,7 @@
     "@mdx-js/loader": "1.6.16",
     "@mdx-js/mdx": "^1.6.16",
     "@mdx-js/react": "^1.6.16",
-    "@next/mdx": "^9.5.2",
+    "@next/mdx": "^9.5.5",
     "@reach/accordion": "^0.10.5",
     "@reach/tooltip": "^0.10.5",
     "@styled-system/theme-get": "^5.1.2",
