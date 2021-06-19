@@ -36,7 +36,7 @@
     "lodash.debounce": "^4.0.8",
     "mdi-react": "7.3.0",
     "micro-memoize": "^4.0.9",
-    "next": "^9.5.2",
+    "next": "^10.0.6",
     "next-fonts": "^1.4.0",
     "next-mdx-remote": "^0.6.0",
     "nprogress": "^0.2.0",
