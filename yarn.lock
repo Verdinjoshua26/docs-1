@@ -1345,6 +1345,37 @@
   resolved "https://registry.yarnpkg.com/@blockstack/prettier-config/-/prettier-config-0.0.6.tgz#8a41cd378ba061b79770987f2a6ad0c92b64bd72"
   integrity sha512-ke0MdyblmoUqSJBEutsG8/6G7KAjCB+uOcgZHPJvJr4R+i5yRhT4GSe5nV/wREINuK0jj2GvaA6qlx4PQTKQUA==
 
+"@blockstack/ui@2.12.2":
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/@blockstack/ui/-/ui-2.12.2.tgz#dc168ff982db77db116cd179b4d9775b89c986c1"
+  integrity sha512-Q60ufIkoRHmVQbSJdAetIf1WA8DwHYm1TlhpK5tbOnrL1AUUN+JhkNs1cZ+48VGOBvjPxRAu92NaPrUmP43QnQ==
+  dependencies:
+    "@popperjs/core" "^2.4.0"
+    "@reach/alert" "^0.10.2"
+    "@reach/auto-id" "^0.10.0"
+    "@reach/rect" "^0.10.2"
+    "@styled-system/css" "5.1.5"
+    "@styled-system/should-forward-prop" "^5.1.5"
+    "@styled-system/theme-get" "^5.1.2"
+    "@types/react-transition-group" "^4.2.4"
+    "@types/styled-components" "^5.1.0"
+    "@types/styled-system" "^5.1.6"
+    "@types/styled-system__css" "^5.0.8"
+    "@types/styled-system__should-forward-prop" "^5.1.1"
+    "@types/styled-system__theme-get" "^5.0.0"
+    color "3.1.2"
+    flushable "^1.0.0"
+    prettier "^2.0.5"
+    prism-react-renderer "^1.0.2"
+    prismjs "^1.20.0"
+    prop-types "^15.7.2"
+    react-spring "8.0.27"
+    react-transition-group "^4.4.1"
+    styled-system "5.1.5"
+    type-fest "^0.15.1"
+    use-events "^1.4.1"
+    use-onclickoutside "^0.3.1"
+
 "@blockstack/ui@2.12.2-beta.0":
   version "2.12.2-beta.0"
   resolved "https://registry.yarnpkg.com/@blockstack/ui/-/ui-2.12.2-beta.0.tgz#ba42fd057e2ef9681c4075e2108ce60f6d99e20f"
@@ -9061,11 +9092,6 @@ vm-browserify@1.1.2, vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
-
-"vscode-textmate@git+https://github.com/octref/vscode-textmate.git":
-  version "4.0.1"
-  uid e65aabe2227febda7beaad31dd0fca1228c5ddf3
-  resolved "git+https://github.com/octref/vscode-textmate.git#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
 
 "vscode-textmate@https://github.com/octref/vscode-textmate":
   version "4.0.1"
