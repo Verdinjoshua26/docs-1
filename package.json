@@ -75,7 +75,8 @@
     "unist-util-visit": "^2.0.3",
     "use-events": "^1.4.2",
     "use-is-in-viewport": "^1.0.9",
-    "yaml-loader": "^0.6.0"
+    "yaml-loader": "^0.6.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
@@ -107,7 +108,9 @@
     "lint:prettier": "prettier --check \"src/**/*.{ts,tsx,md,mdx}\" *.js",
     "lint:prettier:fix": "prettier --write \"src/**/*.{ts,tsx,md,mdx}\" *.js",
     "typecheck": "tsc --noEmit",
-    "typecheck:watch": "npm run typecheck -- --watch"
+    "typecheck:watch": "npm run typecheck -- --watch",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "resolutions": {
     "preact": "^10.4.4",
@@ -119,5 +122,6 @@
       "pre-commit": "yarn lint:prettier"
     }
   },
-  "prettier": "@blockstack/prettier-config"
+  "prettier": "@blockstack/prettier-config",
+  "snyk": true
 }

@@ -1606,6 +1606,11 @@
   dependencies:
     tslib "^2.0.0"
 
+"@snyk/protect@^1.883.0":
+  version "1.883.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.883.0.tgz#048015d4e0f1c18b6abc7e2773b6374b620bd399"
+  integrity sha512-N/EqG6P/qNYWOfuZAfGS1d7yGwGY4zV7AvKtgTzdhazDt7G/mRLG6czLSWNWGEFYBiMsYRVPHdc5It3bjhmIGw==
+
 "@styled-system/background@^5.1.2":
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/@styled-system/background/-/background-5.1.2.tgz#75c63d06b497ab372b70186c0bf608d62847a2ba"
@@ -9061,11 +9066,6 @@ vm-browserify@1.1.2, vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
-
-"vscode-textmate@git+https://github.com/octref/vscode-textmate.git":
-  version "4.0.1"
-  uid e65aabe2227febda7beaad31dd0fca1228c5ddf3
-  resolved "git+https://github.com/octref/vscode-textmate.git#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
 
 "vscode-textmate@https://github.com/octref/vscode-textmate":
   version "4.0.1"
