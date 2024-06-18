@@ -66,7 +66,7 @@
     "remark-vscode": "^1.0.0-beta.2",
     "strip-markdown": "^3.1.2",
     "swr": "^0.3.0",
-    "turndown": "^6.0.0",
+    "turndown": "^7.0.0",
     "typescript": "^3.9.7",
     "unified-vscode": "^1.0.0-beta.2",
     "unist-builder": "^2.0.3",
