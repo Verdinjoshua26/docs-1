@@ -19,7 +19,7 @@
     "@types/reach__tooltip": "^0.2.0",
     "algoliasearch": "^4.4.0",
     "babel-plugin-macros": "^2.8.0",
-    "cache-manager": "^3.3.0",
+    "cache-manager": "^5.0.0",
     "cache-manager-fs-hash": "^0.0.9",
     "capsize": "^1.1.0",
     "csstype": "^3.0.2",
