@@ -2,7 +2,7 @@
   "name": "@blockstack/docs",
   "version": "1.0.0",
   "dependencies": {
-    "@blockstack/ui": "2.12.2-beta.0",
+    "@blockstack/ui": "2.12.2",
     "@docsearch/css": "^1.0.0-alpha.27",
     "@docsearch/react": "^1.0.0-alpha.27",
     "@hashicorp/remark-plugins": "^3.0.0",
@@ -71,7 +71,7 @@
     "unified-vscode": "^1.0.0-beta.2",
     "unist-builder": "^2.0.3",
     "unist-util-is": "^4.0.2",
-    "unist-util-select": "^3.0.1",
+    "unist-util-select": "^3.0.3",
     "unist-util-visit": "^2.0.3",
     "use-events": "^1.4.2",
     "use-is-in-viewport": "^1.0.9",
