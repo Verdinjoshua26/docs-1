@@ -23,7 +23,7 @@
     "cache-manager-fs-hash": "^0.0.9",
     "capsize": "^1.1.0",
     "csstype": "^3.0.2",
-    "csvtojson": "^2.0.10",
+    "csvtojson": "^2.0.13",
     "docsearch.js": "^2.6.3",
     "fathom-client": "^3.0.0",
     "front-matter": "^4.0.2",
